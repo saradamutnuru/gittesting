@@ -21,4 +21,4 @@ While the reusability of automated tests is valued by software development compa
 Test automation tools can be expensive and are usually employed in combination with manual testing. Test automation can be made cost-effective in the long term, especially when used repeatedly in regression testing. A good candidate for test automation is a test case for common flow of an application, as it is required to be executed (regression testing) every time an enhancement is made in the application. Test automation reduces the effort associated with manual testing. Manual effort is needed to develop and maintain automated checks, as well as reviewing test results.
 
 
-***********************************the end********************************************************************************
+***********************************Lot is left to learn******************************************************************************
